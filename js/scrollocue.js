@@ -92,6 +92,17 @@
 			increaseCursor();
 		});
 
+		$(window.document).bind('mousewheel',function(event,delta){
+			//console.log(delta);
+			console.log("hehe");
+			increaseCursor();
+
+		});
+
+
+
+
+
 	};
 
 
