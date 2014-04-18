@@ -1,6 +1,6 @@
 
 body {
-	background-color: #000;
+	background-color: #2e2930;
 	color: #666;
 	font-family: '微软雅黑', Arial, sans-serif;
 	font-size: 72pt;
@@ -15,6 +15,14 @@ body {
 
 h1 {
 	color: #fff;
+	font-family: '黑体'
+
+}
+
+
+h2 {
+	color: #fff;
+	
 
 }
 
@@ -84,7 +92,6 @@ p {
 
 
 .name {
-	font-style: italic;
 	color: #36E6F5;
 }
 
